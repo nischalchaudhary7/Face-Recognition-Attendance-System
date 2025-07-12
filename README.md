@@ -3,19 +3,20 @@ Face Recognition Attendance System
 This is a complete Python-based Face Recognition Attendance System that helps automate attendance using facial recognition. The system captures student photos, trains a face recognition model, and marks attendance in real time through your webcam. It also includes admin login, a GUI, database connection, and support links.
 
  What This Project Can Do
- Admin login and user authentication
+ 
+ 1. Admin login and user authentication
 
- Student registration with name, ID, and photo capture
+ 2. Student registration with name, ID, and photo capture
 
- Train a face recognition model using saved images
+ 3. Train a face recognition model using saved images
 
- Detect and recognize student faces live from a webcam
+ 4. Detect and recognize student faces live from a webcam
 
- Record attendance with date and time
+ 5. Record attendance with date and time
 
- Store data in a MySQL database (configured on port 3307)
+ 6. Store data in a MySQL database (configured on port 3307)
 
- Includes a Developer Info screen
+ 7. Includes a Developer Info screen
 
 
 🛠️ Tools & Technologies Used
